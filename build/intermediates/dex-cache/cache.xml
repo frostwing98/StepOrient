@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/allen/Github/StepOrient/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d116976cfe2089792a75dd9b529e0da6f6283875">
+        <dex dex="/home/allen/Github/StepOrient/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a8b29a9eccc01acfc12e08b1d578467f99b5aa8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/allen/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/23.1.1/8d680ba5a623724d1fb0e81c36a790f023a6cede/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/allen/Github/StepOrient/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_6d83405446afe25da994e5b3656b0b63bd2af059.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/allen/Github/StepOrient/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/allen/Github/StepOrient/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_459ce6392b0aa7df3c8406f1660c28bc9815af3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/allen/.android/build-cache/17da910eca382cc13f8820d4fa4c1773e8d860b8/output/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/allen/Github/StepOrient/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_803a1a623f57b9900b7d561f0b20a74918192049.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/allen/.android/build-cache/17da910eca382cc13f8820d4fa4c1773e8d860b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/allen/Github/StepOrient/app/build/intermediates/pre-dexed/debug/classes_545f468ac58a8db02d92bde642cb935023a614f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/allen/.android/build-cache/674d21a9d7c237c780da7cc725f10512e2467e5c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/allen/Github/StepOrient/app/build/intermediates/pre-dexed/debug/classes_155c03629a2ad5a112a5a21cc8451ee74da6d5fc.jar" />
+    </item>
+
+</items>
